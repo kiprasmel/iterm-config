@@ -133,6 +133,8 @@
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
+	<key>HotkeyWindowsExcludedFromCycling</key>
+	<true/>
 	<key>IRMemory</key>
 	<integer>4</integer>
 	<key>MaxVertically</key>
