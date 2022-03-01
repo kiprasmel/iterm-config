@@ -60,20 +60,6 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xf702-0x300000</key>
-		<dict>
-			<key>Action</key>
-			<integer>2</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
-		<key>0xf703-0x300000</key>
-		<dict>
-			<key>Action</key>
-			<integer>0</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
 		<key>0xf729-0x100000</key>
 		<dict>
 			<key>Action</key>
@@ -137,6 +123,8 @@
 	<true/>
 	<key>IRMemory</key>
 	<integer>4</integer>
+	<key>LeftCommand</key>
+	<integer>7</integer>
 	<key>MaxVertically</key>
 	<false/>
 	<key>NeverWarnAboutShortLivedSessions_ED382606-4239-4923-828A-C50A899D3AA6</key>
@@ -2768,9 +2756,9 @@
 	<key>StretchTabsToFillBar</key>
 	<true/>
 	<key>SwitchTabModifier</key>
-	<integer>4</integer>
+	<integer>9</integer>
 	<key>SwitchWindowModifier</key>
-	<integer>6</integer>
+	<integer>9</integer>
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>5</integer>
 	<key>TabsHaveCloseButton</key>
