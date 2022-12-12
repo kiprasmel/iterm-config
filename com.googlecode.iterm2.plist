@@ -2243,7 +2243,7 @@
 			<key>Columns</key>
 			<integer>75</integer>
 			<key>Command</key>
-			<string>/bin/sh /Users/kiprasmelnikovas/.local/bin/calc</string>
+			<string>/bin/sh ~/.local/bin/calc</string>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
