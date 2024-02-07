@@ -149,6 +149,17 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
+		<key>0x60-0x100000-0x32</key>
+		<dict>
+			<key>Action</key>
+			<integer>38</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>,§</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<key>0x9-0x40000-0x30</key>
 		<dict>
 			<key>Action</key>
@@ -795,6 +806,8 @@
 					<string>[1;5F</string>
 				</dict>
 			</dict>
+			<key>Left Option Key Changeable</key>
+			<true/>
 			<key>Mouse Reporting</key>
 			<false/>
 			<key>Name</key>
@@ -1881,14 +1894,16 @@
 					<key>Text</key>
 					<string>0x7f</string>
 				</dict>
-				<key>0x74-0x100000-0x0</key>
+				<key>0x74-0x100000-0x11</key>
 				<dict>
 					<key>Action</key>
-					<integer>27</integer>
+					<integer>13</integer>
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>0360E629-0A3C-4AF5-A940-19E76CB45356</string>
+					<string></string>
+					<key>Version</key>
+					<integer>1</integer>
 				</dict>
 				<key>0xf700-0x220000</key>
 				<dict>
