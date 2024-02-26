@@ -39,6 +39,28 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
+		<key>0x20-0x20000-0x31</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string> </string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0x20-0x40000-0x31</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string> </string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<key>0x2f-0x40000-0x2c</key>
 		<dict>
 			<key>Action</key>
@@ -57,7 +79,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x30</string>
+			<string>0x1b 0x30</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -68,7 +90,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x31</string>
+			<string>0x1b 0x31</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -79,7 +101,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x32</string>
+			<string>0x1b 0x32</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -90,7 +112,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x33</string>
+			<string>0x1b 0x33</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -101,7 +123,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x34</string>
+			<string>0x1b 0x34</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -112,7 +134,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x35</string>
+			<string>0x1b 0x35</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -123,7 +145,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x36</string>
+			<string>0x1b 0x36</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -134,7 +156,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x37</string>
+			<string>0x1b 0x37</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -145,7 +167,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x38</string>
+			<string>0x1b 0x38</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -156,7 +178,7 @@
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>0x01 0x39</string>
+			<string>0x1b 0x39</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -171,6 +193,50 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
+		<key>0x69-0x40000-0x22</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>[[CtI</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0x6a-0x100000-0x26</key>
+		<dict>
+			<key>Action</key>
+			<integer>38</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>\&lt;M-j&gt;</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0x6b-0x100000-0x28</key>
+		<dict>
+			<key>Action</key>
+			<integer>38</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>\&lt;M-k&gt;</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0x72-0x100000-0xf</key>
+		<dict>
+			<key>Action</key>
+			<integer>13</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string></string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<key>0x9-0x40000-0x30</key>
 		<dict>
 			<key>Action</key>
@@ -179,6 +245,50 @@
 			<string></string>
 			<key>Text</key>
 			<string></string>
+		</dict>
+		<key>0xd-0x100000-0x24</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>[[CE</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0xd-0x120000-0x24</key>
+		<dict>
+			<key>Action</key>
+			<integer>23</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string></string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0xd-0x20000-0x24</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>[[SE</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0xd-0x40000-0x24</key>
+		<dict>
+			<key>Action</key>
+			<integer>12</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>[[CtE</string>
+			<key>Version</key>
+			<integer>1</integer>
 		</dict>
 		<key>0xf700-0x300000</key>
 		<dict>
@@ -281,6 +391,10 @@
 	<integer>4</integer>
 	<key>MaxVertically</key>
 	<false/>
+	<key>NeverWarnAboutShortLivedSessions_668F0218-AA77-4D71-B7B7-23F18A6DDF2E</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_668F0218-AA77-4D71-B7B7-23F18A6DDF2E_selection</key>
+	<integer>0</integer>
 	<key>NeverWarnAboutShortLivedSessions_ED382606-4239-4923-828A-C50A899D3AA6</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_ED382606-4239-4923-828A-C50A899D3AA6_selection</key>
@@ -304,6 +418,8 @@
 			<string>No</string>
 			<key>Allow Title Reporting</key>
 			<false/>
+			<key>Allow modifyOtherKeys</key>
+			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -450,6 +566,8 @@
 				<key>Red Component</key>
 				<real>1</real>
 			</dict>
+			<key>Application Keypad Allowed</key>
+			<false/>
 			<key>BM Growl</key>
 			<true/>
 			<key>Background Color</key>
@@ -619,7 +737,7 @@
 			<key>Use Non-ASCII Font</key>
 			<false/>
 			<key>Use libtickit protocol</key>
-			<true/>
+			<false/>
 			<key>Vertical Spacing</key>
 			<real>1</real>
 			<key>Visual Bell</key>
@@ -1637,11 +1755,11 @@
 				<key>0x74-0x100000-0x11</key>
 				<dict>
 					<key>Action</key>
-					<integer>13</integer>
+					<integer>11</integer>
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string></string>
+					<string>0x11</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -2624,6 +2742,8 @@
 	<false/>
 	<key>RightCommand</key>
 	<integer>8</integer>
+	<key>RightOption</key>
+	<integer>3</integer>
 	<key>SeparateStatusBarsPerPane</key>
 	<false/>
 	<key>SeparateWindowTitlePerTab</key>
