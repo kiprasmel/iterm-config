@@ -2699,6 +2699,8 @@
 	<false/>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
+	<key>PMPrintingPanelSize</key>
+	<string>{777, 828}</string>
 	<key>PassOnControlClick</key>
 	<false/>
 	<key>PerPaneBackgroundImage</key>
@@ -2761,7 +2763,7 @@
 	<key>SwitchTabModifier</key>
 	<integer>9</integer>
 	<key>SwitchWindowModifier</key>
-	<integer>6</integer>
+	<integer>9</integer>
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>5</integer>
 	<key>TabsHaveCloseButton</key>
@@ -5251,6 +5253,8 @@
 			</dict>
 		</array>
 	</dict>
+	<key>WindowNumber</key>
+	<false/>
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>userAccessCode</key>
