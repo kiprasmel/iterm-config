@@ -2,8 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AIFeatureFunctionCalling</key>
+	<true/>
+	<key>AIFeatureHostedCodeInterpeter</key>
+	<true/>
+	<key>AIFeatureHostedFileSearch</key>
+	<true/>
+	<key>AIFeatureHostedWebSearch</key>
+	<true/>
+	<key>AIFeatureStreamingResponses</key>
+	<true/>
+	<key>AITermAPI</key>
+	<integer>2</integer>
+	<key>AIVectorStore</key>
+	<integer>0</integer>
 	<key>AdjustWindowForFontSizeChange</key>
 	<false/>
+	<key>AiMaxTokens</key>
+	<integer>400000</integer>
+	<key>AiModel</key>
+	<string>gpt-5.1</string>
+	<key>AiResponseMaxTokens</key>
+	<integer>128000</integer>
+	<key>AitermURL</key>
+	<string>https://api.openai.com/v1/responses</string>
 	<key>AllowClipboardAccess</key>
 	<true/>
 	<key>AlternateMouseScroll</key>
@@ -246,14 +268,25 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xd-0x100000-0x24</key>
+		<key>0xd-0x0-0x24</key>
 		<dict>
 			<key>Action</key>
-			<integer>12</integer>
+			<integer>11</integer>
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>[[CE</string>
+			<string>0x1b 0x0d</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0xd-0x100000-0x24</key>
+		<dict>
+			<key>Action</key>
+			<integer>11</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>0x0d</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -272,10 +305,12 @@
 		<dict>
 			<key>Action</key>
 			<integer>12</integer>
-			<key>Label</key>
-			<string></string>
+			<key>Keycode</key>
+			<integer>13</integer>
+			<key>Modifiers</key>
+			<integer>131072</integer>
 			<key>Text</key>
-			<string>[[SE</string>
+			<string>\n</string>
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
@@ -391,6 +426,10 @@
 	<integer>4</integer>
 	<key>MaxVertically</key>
 	<false/>
+	<key>NeverWarnAboutShortLivedSessions_0360E629-0A3C-4AF5-A940-19E76CB45356</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_0360E629-0A3C-4AF5-A940-19E76CB45356_selection</key>
+	<integer>0</integer>
 	<key>NeverWarnAboutShortLivedSessions_668F0218-AA77-4D71-B7B7-23F18A6DDF2E</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_668F0218-AA77-4D71-B7B7-23F18A6DDF2E_selection</key>
